@@ -1,1 +1,3 @@
+1st line
+add 2nd line
 this is the nts file
